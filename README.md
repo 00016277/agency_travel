@@ -6,4 +6,4 @@ In this project, you can improve the design in the future and add additional upd
 As a result, this project has the potential for the company - BEST HOLIDAYS TOUR, which may lead to the expansion of the company abroad.
 In this project, the design was made in the likeness of this resource https://www.youtube.com/watch?v=TalusE29iqg&t=133s
 
-Link ot the website: 
+Link ot the website: https://00016277.github.io/agency_travel/
